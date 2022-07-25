@@ -33,5 +33,5 @@ In one shift operation:
 
 ### Resoluções:
 
-https://github.com/BotaUmCroppedEEstuda/leetcode/blob/master/src/main/java/shift2dgrid.Shift2DGridSolutionKaren.java
-https://github.com/BotaUmCroppedEEstuda/leetcode/blob/master/src/main/java/shift2dgrid.Shift2DGridSolutionLeticia.java
+https://github.com/BotaUmCroppedEEstuda/leetcode/blob/master/src/main/java/shift2dgrid/Shift2DGridSolutionKaren.java
+https://github.com/BotaUmCroppedEEstuda/leetcode/blob/master/src/main/java/shift2dgrid/Shift2DGridSolutionLeticia.java
