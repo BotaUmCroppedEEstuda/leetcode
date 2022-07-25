@@ -27,5 +27,4 @@ For example, 121 is a palindrome while 123 is not.
 
 ### Resoluções:
 
-https://github.com/BotaUmCroppedEEstuda/leetcode/blob/master/src/main/java/shift2dgrid/Shift2DGridSolutionKaren.java
-https://github.com/BotaUmCroppedEEstuda/leetcode/blob/master/src/main/java/shift2dgrid/Shift2DGridSolutionLeticia.java
+https://github.com/BotaUmCroppedEEstuda/leetcode/blob/master/src/main/java/palindromenumber/PalindromeNumberSolutionLeticia.java
