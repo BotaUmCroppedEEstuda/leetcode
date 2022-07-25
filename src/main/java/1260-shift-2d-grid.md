@@ -30,3 +30,8 @@ In one shift operation:
 - 1 <= n <= 50
 - -1000 <= grid[i][j] <= 1000
 - 0 <= k <= 100
+
+### Resoluções:
+
+https://github.com/BotaUmCroppedEEstuda/leetcode/blob/master/src/main/java/Shift2DGridSolutionKaren.java
+https://github.com/BotaUmCroppedEEstuda/leetcode/blob/master/src/main/java/Shift2DGridSolutionLeticia.java
